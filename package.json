@@ -1,0 +1,16 @@
+{
+  "name": "jen-stack-cc-master",
+  "version": "1.0.0",
+  "description": "code challenge 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "jo snow",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
